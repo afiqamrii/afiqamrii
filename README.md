@@ -19,8 +19,6 @@ Skills: Java & Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqamrii&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afiqamrii)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=afiqamrii)  
 
 ![Profile views](https://gpvc.arturio.dev/afiqamrii)  
