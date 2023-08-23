@@ -8,10 +8,7 @@ Skills: Java & Python
 
 - 🔭 I’m currently working on Freelance in **UI/UX Design** 
 - 🌱 I’m currently learning **Software Engineering** 
-- ⚡ Fun fact: Love to Learn **New** things 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afiqamrii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afiqamrii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afqamrii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/afqqamr)  
+- ⚡ Fun fact: Love to Learn **New** things  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afiqamrii)](https://github.com/ryo-ma/github-profile-trophy)
 
