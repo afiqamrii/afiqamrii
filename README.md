@@ -51,7 +51,6 @@ Feel free to check out my repositories or reach out if you’re working on somet
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=afiqamrii)  
 
-![Profile views](https://gpvc.arturio.dev/afiqamrii)  
 
 
 
