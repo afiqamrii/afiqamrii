@@ -21,7 +21,7 @@ I'm currently pursuing a degree in **Software Engineering** and working on vario
 - **Languages**: Java, Python, JavaScript, SQL
 - **Frontend**: Flutter, HTML/CSS, Tailwind, UI/UX Design (Figma)
 - **Backend**: Node.js, Express, REST APIs
-- **Database**: MySQL, SQLite
+- **Database**: MySQL
 - **Hardware**: ESP32, NFC, Ultrasonic Sensors, SD Card Modules
 - **Others**: GitHub, Postman, Notion, Canva, Firebase (basics)
 
