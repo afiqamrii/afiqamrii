@@ -45,12 +45,14 @@ Feel free to check out my repositories or reach out if you’re working on somet
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afiqamrii)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqamrii&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqamrii)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqamrii&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=afiqamrii)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqamrii&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
